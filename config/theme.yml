@@ -86,8 +86,6 @@ global_settings:
         - ps_searchbar
       displayProductAdditionalInfo:
         - ps_sharebuttons
-      displayReassurance:
-        - blockreassurance
       displayOrderConfirmation2:
         - ps_featuredproducts
       displayCrossSellingShoppingCart:
