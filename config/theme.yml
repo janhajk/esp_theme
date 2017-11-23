@@ -53,6 +53,8 @@ global_settings:
   modules:
    to_enable:
      - ps_linklist
+   to_disable:
+     - blockreassurance
   hooks:
     modules_to_hook:
       displayNav1:
